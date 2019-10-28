@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5203860-341b-4a6a-b124-d7513c30a069" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ash_box.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/Action_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/Tile_script.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Scripts/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572190439802</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="'One box moving around. Boundaries Set'">
+      <created>1572207544103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572207544103</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="'display a box at certain location'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'display a box at certain location'" />
+    <MESSAGE value="'One box moving around. Boundaries Set'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'One box moving around. Boundaries Set'" />
   </component>
 </project>
